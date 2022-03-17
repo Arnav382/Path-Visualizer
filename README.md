@@ -1,7 +1,10 @@
 # Path-Visualizer
 Visualization of the A* algorithm, the most optimized shortest path search algorithm using the concepts of Object Oriented Programming(OOP) data structures and the pygame module of python.
 
+8. **Here is a walkthrough**
+![A* walkthrough](https://user-images.githubusercontent.com/74955631/158867500-15db23ea-9026-4c4f-9c04-ccf4ec22580f.gif)
 Steps to use this File
+
 1. **Download the main file from the repository**
 2. Ensure you have python 3.6 or above and pygame installed in your desktop
 3. Enter <pre><code>python main.py</pre></code> in your terminal or directly run the source code
@@ -12,7 +15,7 @@ Steps to use this File
 6. **After locking the start and end points, use the left button to make your path.**
 ![Screenshot 2022-03-17 at 7 03 06 PM](https://user-images.githubusercontent.com/74955631/158823525-fc07af83-5e39-4247-823c-fea4d0bcd24d.png)
 7. **After you are done making it, press the spacebar to watch the fun unfold!!!!**
-8. **Here is a walkthrough**
 
-![A* walkthrough](https://user-images.githubusercontent.com/74955631/158867500-15db23ea-9026-4c4f-9c04-ccf4ec22580f.gif)
+
+
 

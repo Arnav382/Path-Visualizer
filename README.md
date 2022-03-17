@@ -14,5 +14,5 @@ Steps to use this File
 7. **After you are done making it, press the spacebar to watch the fun unfold!!!!**
 8. **Here is a walkthrough**
 
-https://user-images.githubusercontent.com/74955631/158824553-83803d6a-3f4d-4030-8e24-27a650e27f6c.mov
+![A* walkthrough](https://user-images.githubusercontent.com/74955631/158867500-15db23ea-9026-4c4f-9c04-ccf4ec22580f.gif)
 
